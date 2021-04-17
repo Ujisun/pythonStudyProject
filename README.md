@@ -1,1 +1,1 @@
-# pythonStudyProject
+# python 기초 실행파일을 만들기 위한 공부 프로젝트
